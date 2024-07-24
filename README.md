@@ -19,7 +19,7 @@ CALCULADORA<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto FinCalc" src=".github/calculadora.png.png" width="100%">
+  <img alt="projeto calculadora" src=".github/calculadora.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
